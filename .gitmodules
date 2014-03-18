@@ -2,3 +2,7 @@
 	path = sub
 	url = ./
 	branch = sub/master
+[submodule "sub_copy"]
+	path = sub_copy
+	url = ./
+	branch = sub/master
